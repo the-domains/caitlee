@@ -1,0 +1,28 @@
+name: caitlee
+favicon: null
+layout_spectrum: 0.017618687357753515
+typography_spectrum: 0.8474520684685558
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3240246360655874
+  lightness: 0.06079153763130307
+  saturation: 0.9245891449972987
+  rhythmicContrast: 0.7906427150592208
+purpose: []
